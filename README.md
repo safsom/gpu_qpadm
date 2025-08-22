@@ -29,7 +29,7 @@ gpu_qpadm/qpadm_api.c
 **Requirements**
 - A C/C++ toolchain (GCC/Clang) with C99 support
 - **CUDA Toolkit** (for `nvcc`) and **cuBLAS**
-- POSIX environment (Linux/macOS). Windows users: build under WSL or adapt the Makefile.
+- POSIX environment (Linux/macOS). Windows users: build under WSL.
 
 **Example (manual)**
 ```bash
